@@ -1,2 +1,2 @@
 # Kallisti-Commands
-A multifunction Discord chat bot with commands for automated web scraping tasks
+A multifunction Discord chat bot with commands to automate common web scraping tasks.
